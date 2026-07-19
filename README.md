@@ -4,6 +4,6 @@ I'm a young C dinosaur (the youngest there ever been with 16 years of age!). I l
 
 I'm currently programming in C on the numworks calculator and I have way too much fun (tipe: if you want to have large textures use external data instead of the stack since it is too small for the job!). [see there my game!](https://github.com/coder-lescob/calculator-maze)
 
-I love math especially calculus and linear algebra, and found the formula of the orthogonal projection of a point on a line by myself as well as used the law of large number to compute the area of a circle thus also pi (I know be heart: $\pi = 3.141592658...$) and discover infinite sums with square roots as well as soving very simple differential equations (e.g. $$\frac{d^2y}{dx^2}=c$$).
+I love math especially calculus and linear algebra. I found the formula of the orthogonal projection of a point on a line by myself as well as used the law of large number to compute the area of a circle thus also pi (I know be heart: $\pi = 3.141592658...$) and discovered infinite sums with square roots as well as soving very simple differential equations (e.g. $$\frac{d^2y}{dx^2}=c$$).
 
 I'm not a fan of ai programming since I'm too young to hate programming, not old enough to be lazy and I love programming way too much! I'm not a fan of javascript.
