@@ -7,3 +7,5 @@ I'm currently programming in C and Rust on the numworks calculator and I have wa
 I love math especially calculus and linear algebra. I found the formula of the orthogonal projection of a point on a line by myself as well as used the law of large number to compute the area of a circle thus also pi (I know be heart: $\pi = 3.14159265...$) and discovered infinite sums with square roots as well as soving very simple differential equations (e.g. $$\frac{d^2y}{dx^2}=c$$).
 
 I'm not a fan of ai programming since I'm too young to hate programming, not old enough to be lazy and I love programming way too much! I'm not a fan of javascript.
+
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder-lescob)
