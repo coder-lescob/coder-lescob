@@ -8,4 +8,5 @@ I love math especially calculus and linear algebra. I found the formula of the o
 
 I'm not a fan of ai programming since I'm too young to hate programming, not old enough to be lazy and I love programming way too much! I'm not a fan of javascript.
 
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=coder-lescob&theme=github_dark)
 ![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=coder-lescob&theme=github_dark)
